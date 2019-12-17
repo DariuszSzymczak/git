@@ -2,3 +2,4 @@ Zmiany
 zmiany2 zmiana02a
 zmiany3
 zmiana4
+zmiana5
